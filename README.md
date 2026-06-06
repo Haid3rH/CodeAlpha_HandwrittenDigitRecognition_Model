@@ -1,4 +1,4 @@
-# 🧠 MNIST Digit Classifier — CNN from Scratch
+#  MNIST Digit Classifier — CNN from Scratch
 
 > *Teach a machine to read handwriting. Turns out it gets better at it than most people.*
 
